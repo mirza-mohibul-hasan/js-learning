@@ -1,0 +1,24 @@
+{
+  "name": "js-learning",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mirza-mohibul-hasan/js-learning#readme",
+  "bugs": {
+    "url": "https://github.com/mirza-mohibul-hasan/js-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirza-mohibul-hasan/js-learning.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
